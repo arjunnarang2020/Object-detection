@@ -1,0 +1,28 @@
+body {
+    background-position: center;
+    background-size: cover;
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status {
+    font-size: 80px;
+}
+
+a {
+    font-size: 20px;
+    margin: 5px;
+    color: white;
+    background-color: black;
+    float: right;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px black;
+    border-radius: 9px;
+    margin-top: 60px;
+}
